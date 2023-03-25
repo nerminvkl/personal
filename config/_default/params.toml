@@ -36,7 +36,7 @@ defaultBackgroundImage = "image.jpg" # used as default for background images
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   homepageImage = "image.jpg" # used in: hero, and card
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
   showMoreLink = false
   showMoreLinkDest = "/posts"
