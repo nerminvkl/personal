@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NERMIN - IT SOLUTIONS</title>
+    <link>https://your_domain.com/</link>
+    <description>Recent content on NERMIN - IT SOLUTIONS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© Copyleft 2023</copyright>
+    <lastBuildDate>Sat, 25 Mar 2023 13:46:05 +0100</lastBuildDate><atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Portal Elektronskih Dokumenata</title>
+      <link>https://your_domain.com/post/portal-elektronskih-dokumenata/</link>
+      <pubDate>Sat, 25 Mar 2023 13:46:05 +0100</pubDate>
+      
+      <guid>https://your_domain.com/post/portal-elektronskih-dokumenata/</guid>
+      <description>Dobrodošli na našu uslugu elektronskih dokumenata!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/post/portal-elektronskih-dokumenata/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
