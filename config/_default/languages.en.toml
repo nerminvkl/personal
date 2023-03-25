@@ -1,0 +1,63 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "NERMIN - IT SOLUTIONS"
+logo = "img/xyzlogo.png"
+description = "Nermin Mašinović"
+copyright = "© Copyleft 2023"
+
+dateFormat = "2 January 2006"
+
+ [author]
+   name = "Nermin Mašinović"
+   image = "img/profilnaslika.JPG"
+   headline = "Dobrodošli na moju web stranicu! Kao AWS certificirani web dizajner, kreiram moderne, responzivne web stranice koje su sigurne, skalabilne i optimizirane za performanse. Trebate novu web stranicu ili redizajn postojeće? Kontaktirajte me i zajedno možemo ostvariti Vašu viziju."
+   bio = "Diplomirani informatičar zaljubljen u prirodu"
+   links = [
+     { email = "mailto:nermin.vkl@gmail.com" },
+#     { link = "https://link-to-some-website.com/" },
+      { amazon = "https://www.credly.com/badges/906cfce2-bc1b-4258-b675-87f61822f4b8" },
+#     { apple = "https://www.apple.com" },
+#     { blogger = "https://username.blogspot.com/" },
+#     { codepen = "https://codepen.io/username" },
+#     { dev = "https://dev.to/username" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { dribbble = "https://dribbble.com/username" },
+      { facebook = "https://www.facebook.com/nermin.vkl" },
+#     { flickr = "https://www.flickr.com/photos/username/" },
+#     { foursquare = "https://foursquare.com/username" },
+      { github = "https://github.com/nerminvkl" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { google = "https://www.google.com/" },
+#     { hashnode = "https://username.hashnode.dev" },
+      { instagram = "https://www.instagram.com/iamnerminm/" },
+#     { keybase = "https://keybase.io/username" },
+#     { kickstarter = "https://www.kickstarter.com/profile/username" },
+#     { lastfm = "https://lastfm.com/user/username" },
+#     { linkedin = "https://linkedin.com/in/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { medium = "https://medium.com/username" },
+#     { microsoft = "https://www.microsoft.com/" },
+#     { orcid = "https://orcid.org/userid" },
+#     { patreon = "https://www.patreon.com/username" },
+#     { pinterest = "https://pinterest.com/username" },
+#     { reddit = "https://reddit.com/user/username" },
+#     { researchgate = "https://www.researchgate.net/profile/username" },
+#     { slack = "https://workspace.url/team/userid" },
+#     { snapchat = "https://snapchat.com/add/username" },
+#     { soundcloud = "https://soundcloud.com/username" },
+#     { stack-overflow = "https://stackoverflow.com/users/userid/username" },
+#     { steam = "https://steamcommunity.com/profiles/userid" },
+#     { telegram = "https://t.me/username" },
+#     { tiktok = "https://tiktok.com/@username" },
+#     { tumblr = "https://username.tumblr.com" },
+#     { twitch = "https://twitch.tv/username" },
+      { twitter = "https://twitter.com/nerminvkl" },
+#     { whatsapp = "https://wa.me/phone-number" },
+#     { youtube = "https://youtube.com/username" },
+      { ko-fi = "https://www.buymeacoffee.com/nerminvklN" },
+   ]
