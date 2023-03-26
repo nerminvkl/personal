@@ -17,12 +17,12 @@
 
 [[main]]
 identifier = "example"
-name = "Kontakt"
+name = "Contact"
 url = "mailto: nermin.vkl@gmail.com"
 weight = 20
 
 [[main]]
-   name = "Projekti"
+   name = "Projects"
    url = "/projects/"
    weight = 10
 
