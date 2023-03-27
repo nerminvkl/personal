@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NERMIN - IT SOLUTIONS</title>
-    <link>https://your_domain.com/</link>
+    <link>https://nermin.xyz/</link>
     <description>Recent content on NERMIN - IT SOLUTIONS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© Copyleft 2023</copyright>
-    <lastBuildDate>Sat, 25 Mar 2023 13:46:05 +0100</lastBuildDate><atom:link href="https://your_domain.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Mar 2023 13:46:05 +0100</lastBuildDate><atom:link href="https://nermin.xyz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kreiranje logotipa za apoteku SL Medic iz Velike Kladuše</title>
-      <link>https://your_domain.com/post/kreiranje-logotipa-za-sl-medic/</link>
+      <link>https://nermin.xyz/post/kreiranje-logotipa-za-sl-medic/</link>
       <pubDate>Sat, 25 Mar 2023 13:46:05 +0100</pubDate>
       
-      <guid>https://your_domain.com/post/kreiranje-logotipa-za-sl-medic/</guid>
+      <guid>https://nermin.xyz/post/kreiranje-logotipa-za-sl-medic/</guid>
       <description>Kreiranje logotipa za kompaniju je uzbudljivo i nagrađujuće iskustvo.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://your_domain.com/post/kreiranje-logotipa-za-sl-medic/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://nermin.xyz/post/kreiranje-logotipa-za-sl-medic/featured.jpg" />
     </item>
     
     <item>
       <title>LOGO work: Pharmacy SL MEDIC Velika Kladuša</title>
-      <link>https://your_domain.com/projects/apoteka-slmedic/</link>
+      <link>https://nermin.xyz/projects/apoteka-slmedic/</link>
       <pubDate>Sat, 25 Mar 2023 13:46:05 +0100</pubDate>
       
-      <guid>https://your_domain.com/projects/apoteka-slmedic/</guid>
+      <guid>https://nermin.xyz/projects/apoteka-slmedic/</guid>
       <description>Welcome to the showcase of my latest logo design!</description>
       
     </item>
     
     <item>
       <title>LOGO work: Restaurant SENATMD Velika Kladuša</title>
-      <link>https://your_domain.com/projects/restoran-senadmd/</link>
+      <link>https://nermin.xyz/projects/restoran-senadmd/</link>
       <pubDate>Sat, 25 Mar 2023 13:46:05 +0100</pubDate>
       
-      <guid>https://your_domain.com/projects/restoran-senadmd/</guid>
+      <guid>https://nermin.xyz/projects/restoran-senadmd/</guid>
       <description>Welcome to the showcase of my latest logo design!</description>
       
     </item>
