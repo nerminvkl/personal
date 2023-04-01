@@ -9,7 +9,7 @@ colorScheme = "noir"
 defaultAppearance = "dark" # valid options: light or dark
 autoSwitchAppearance = false
 
-enableSearch = true
+enableSearch = false
 enableCodeCopy = false
 
 # mainSections = ["section1", "section2"]
@@ -30,7 +30,7 @@ defaultBackgroundImage = "image.jpg" # used as default for background images
   showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = true
+  showAppearanceSwitcher = false
   showScrollToTop = true
 
 [homepage]
